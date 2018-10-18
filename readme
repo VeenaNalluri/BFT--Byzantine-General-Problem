@@ -1,4 +1,5 @@
-# BFT Algorithm: In this assignment we are trying to solve the Byzantine general problem using ZMQ Req-Rep pattern communication
+***BFT Algorithm:*** 
+In this assignment we are trying to solve the Byzantine general problem using ZMQ Req-Rep pattern communication
 Lamport’s algorithm is a recursive definition, with a base case for m=0, and a recursive step for m > 0:
 Algorithm OM(0)
 1.	The general sends his value to every lieutenant.
